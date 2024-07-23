@@ -22,7 +22,7 @@
 
 课本PDF
 
-[CMU-15-445-Fall2022-EN](https://15445.courses.cs.cmu.edu/fall2022/book/book.pdf)
+[CMU-15-445-Fall2022-EN](https://github.com/root-hbx/Database-Systems-CMU15445/tree/main/Book)
 
-[CMU-15-445-Fall2022-CN](https://15445.courses.cs.cmu.edu/fall2022/book/book.pdf)
+[CMU-15-445-Fall2022-CN](https://github.com/root-hbx/Database-Systems-CMU15445/tree/main/Book)
 
