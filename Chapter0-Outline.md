@@ -22,6 +22,11 @@
 
 [Database](https://github.com/ysj1173886760/Learning/tree/master/db)
 
+- Course Policies + Schedule: Course Web Page
+- Discussion + Announcements: Piazza
+- Homeworks + Projects: Gradescope
+- Final Grades: Canvas
+
 ## EDUCATIONAL OBJECTIVES
 
 This is an upper-level course on the internals of database management systems. This course has a heavy emphasis on programming projects. There are also readings assigned for each class, homeworks, and two exams. Upon successful completion of this course, the student should be able to:
