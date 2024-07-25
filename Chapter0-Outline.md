@@ -50,9 +50,9 @@ This is an upper-level course on the internals of database management systems. T
 
 此外 bustub 作为一个 C++ 编写的中小型项目涵盖了程序构建、代码规范、单元测试等众多要求，可以作为一个优秀的开源项目学习。
 
-## mySQL 环境配置
+## MySQL 环境配置
 
->在macOS上配置mySQL
+>在macOS上配置MySQL
 
 __Configuration__
 
@@ -71,7 +71,7 @@ __Login__
 mysql -u root -p
 ```
 
-And you can access your own mySQL account to test, for example:
+And you can access your own MySQL account to test, for example:
 
 __Create__
 
