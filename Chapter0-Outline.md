@@ -50,3 +50,56 @@ This is an upper-level course on the internals of database management systems. T
 
 此外 bustub 作为一个 C++ 编写的中小型项目涵盖了程序构建、代码规范、单元测试等众多要求，可以作为一个优秀的开源项目学习。
 
+## mySQL 环境配置
+
+>在macOS上配置mySQL
+
+__Configuration__
+
+```sh
+brew install mysql
+```
+
+```sh
+brew services start mysql
+mysql_secure_installation
+```
+
+__Login__
+
+```sh
+mysql -u root -p
+```
+
+And you can access your own mySQL account to test, for example:
+
+__Create__
+
+```sh
+CREATE DATABASE your_database_name;
+```
+
+```sh
+USE your_database_name;
+```
+
+```sh
+CREATE TABLE your_table_name (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    column1 VARCHAR(255),
+    column2 INT
+);
+```
+
+__Set__
+
+```sh
+INSERT INTO your_table_name (column1, column2) VALUES ('bxhu', 112);
+```
+
+__Check__
+
+```sh
+SELECT * FROM your_table_name;
+```
+
